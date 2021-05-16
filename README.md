@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Wentao. You can call me Luke.
-- ✨ You are also welcome to my github Page(wentaoluk.github.io)
+- ✨ You are also welcome to my [github Page](wentaoluk.github.io)
 - 👀 I’m interested in frontend development (as well as some backends==)
 - 🌱 I’m currently taking classes at Algonquin College
 - 💞️ And I'm also self-studying ReactJS
