@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Wentao. You can call me Luke.
+- 👋 Hi, I’m Wentao. You can also call me Luke.
 - ✨ You are also welcome to my [Github Page](https://wentaoluk.github.io)
 - 👀 I’m interested in frontend development (as well as some backends==)
 - 🌱 I’m currently taking classes at Algonquin College
