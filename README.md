@@ -1,8 +1,5 @@
-- 👋 Hi, I’m Wentao. You can also call me Luke.
-- ✨ You are also welcome to check out my [Blog Page](https://wentaoluk.github.io)
-- 👀 I’m interested in front end development (as well as some backends==)
-- 🌱 I’m currently taking classes at Algonquin College
-- 💞️ And I'm also self-studying ReactJS
+- 👋 Hi, I’m Wentao. 
+- 👀 I’m interested in QA & front end development (as well as some backends==)
 - 📫 You are welcome reach me at Wentaoluk@gmail.com
 
 <!---
